@@ -7,5 +7,11 @@ In this repository there are three branches - each contains a different set of s
 # Branch 1 - Traditional Pattern Glare Stimuli
 These are the static Pattern Glare stimuli which are traditionally used in the computerised Pattern Glare Test (Braithwaite et al., 2013). 
 
+# Branch 2 - Flickered Pattern Glare Stimuli
+The first experimental manipulation for this study. These are examples of the flickered Pattern Glare stimuli.
+
+# Branch 3 - Audiovisual Flickered Pattern Glare Stimuli
+The second experimental manipulation for this study. These are examples of the flickered Pattern Glare stimuli paired with auditory tones frequency-modulated at a matched rate to the visual flicker.
+
 # References
 Braithwaite, J. J., Broglia, E., Brincat, O., Stapley, L., Wilkins, A. J., & Takahashi, C. (2013). Signs of increased cortical hyperexcitability selectively associated with spontaneous anomalous bodily experiences in a nonclinical population. Cognitive neuropsychiatry, 18(6), 549-573. https://doi.org/10.1080/13546805.2013.768176
