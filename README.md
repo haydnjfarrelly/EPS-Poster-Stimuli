@@ -4,7 +4,7 @@ Examples of the stimuli used for a research project forming part of my PhD. This
 # Branches
 In this repository there are three branches - each contains a different set of stimuli and a READ.ME file with additional information if you would like to know more about them.
 
-# Branch 1 - Traditional Pattern Glare Files
+# Branch 1 - Traditional Pattern Glare Stimuli
 These are the static Pattern Glare stimuli which are traditionally used in the computerised Pattern Glare Test (Braithwaite et al., 2013). 
 
 # References
