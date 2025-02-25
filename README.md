@@ -25,11 +25,12 @@ These are the original static Pattern Glare stimuli which are used in the comput
 
 ## Non-irritating (High Frequency) Grating
 ![14cpd](https://github.com/user-attachments/assets/5e03a333-4578-4419-aab0-45a6db4fd9a4)
+
 <br>
 <br>
 <br>
 
-# Flickered Pattern Glare Stimul
+# Flickered Pattern Glare Stimuli
 The first experimental manipulation for this study. These are examples of the flickered Pattern Glare stimuli. Here I have used the irritating (medium frequency) grating only, this is for display purpose. Participants were exposed to both the irritating (medium frequency) and non-irritating (high frequency) gratings at all rates of flicker.
 <br>
 <br>
@@ -44,9 +45,21 @@ https://github.com/user-attachments/assets/2c11cb6a-22cc-46b1-878c-1437a787858e
 
 <br>
 <br>
+<br>
 
-#  Audiovisual Flickered Pattern Glare Stimuli
+#  Multisensory Flickered Pattern Glare Stimuli
 The second experimental manipulation for this study. These are examples of the flickered Pattern Glare stimuli paired with auditory tones frequency-modulated at a matched rate to the visual flicker. Again, only the irritating (medium frequency) gratin is presented here, this is for display purposes only.
+<br>
+<br>
+
+## Multisensory at Irritating Flicker Rate (15 Hz)
+https://github.com/user-attachments/assets/221a29b7-da48-44c4-8213-0fec92e28f06
+
+<br>
+
+## Multisensory at Non-irritating Flicker Rate (3 Hz)
+https://github.com/user-attachments/assets/60068355-1839-4e2a-9257-7a98a7500886
+
 <br>
 <br>
 <br>
