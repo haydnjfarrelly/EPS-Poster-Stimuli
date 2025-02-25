@@ -31,7 +31,7 @@ These are the original static Pattern Glare stimuli which are used in the comput
 <br>
 
 # Flickered Pattern Glare Stimuli
-The first experimental manipulation for this study. These are examples of the flickered Pattern Glare stimuli. Here I have used the irritating (medium frequency) grating only, this is for display purpose. Participants were exposed to both the irritating (medium frequency) and non-irritating (high frequency) gratings at all rates of flicker.
+The first experimental manipulation for this study. These are examples of the flickered Pattern Glare stimuli. Here I have used the irritating (medium frequency) grating only, this is for display purposes. Participants were exposed to both the irritating (medium frequency) and non-irritating (high frequency) gratings at all rates of flicker.
 <br>
 <br>
 
