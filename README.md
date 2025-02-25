@@ -53,7 +53,7 @@ The second experimental manipulation for this study. These are examples of the f
 <br>
 
 ## Multisensory at Irritating Flicker Rate (15 Hz)
-https://github.com/user-attachments/assets/221a29b7-da48-44c4-8213-0fec92e28f06
+https://github.com/user-attachments/assets/dc995233-363f-4a24-b9c5-5f45c9a386c0
 
 <br>
 
